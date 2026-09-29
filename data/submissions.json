@@ -1,0 +1,29 @@
+[
+  {
+    "id": "sub_1727601200001",
+    "name": "Genevieve De Montmirail",
+    "email": "g.montmirail@haute-luxury.fr",
+    "phone": "+33 6 12 34 56 78",
+    "eventType": "High-End Weddings",
+    "eventDate": "2026-11-14",
+    "guestCount": "200 - 500 Guests",
+    "budgetRange": "$250,000 - $500,000",
+    "message": "Seeking complete creative direction and spatial staging for our 3-day wedding celebration at a private château in Loire Valley. Need acoustic design and Michelin-caliber catering logistics.",
+    "createdAt": "2026-09-28T14:22:00.000Z",
+    "status": "new"
+  },
+  {
+    "id": "sub_1727601200002",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@apexglobal.com",
+    "phone": "+1 (415) 890-2134",
+    "eventType": "Corporate Summits & Galas",
+    "eventDate": "2026-12-05",
+    "guestCount": "500+ Guests",
+    "budgetRange": "$500,000+",
+    "message": "Annual Global Leadership Summit in Dubai. High-profile VIP speakers, holographic keynote stage, and diplomatic tier security protocols required.",
+    "createdAt": "2026-09-27T09:15:30.000Z",
+    "status": "in-review",
+    "notes": "Followed up with executive assistant regarding technical rider and Dubai venue permits."
+  }
+]
